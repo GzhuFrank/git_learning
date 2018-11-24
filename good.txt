@@ -1,1 +1,2 @@
+the file has been modify by the ubuntu through git.
 this is the file in 002 directory!
